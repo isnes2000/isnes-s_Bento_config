@@ -42,6 +42,7 @@ function displayClock() {
 
   document.getElementById('month').innerText = mm;
   document.getElementById('day').innerText = dd;
+  document.getElementById('suffix').innerText = ["st","nd","rd"][((dd+90)%100-10)%10-1]||"th";
 
   setTimeout(displayClock, 1000);
 }

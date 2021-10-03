@@ -166,7 +166,8 @@ body {
 }
 
 #month,
-#day {
+#day,
+#suffix {
   font-size: var(--fsm);
   font-weight: bold;
   color: var(--fg);
@@ -174,6 +175,12 @@ body {
 
 #day {
   margin-left: 20px;
+}
+
+#suffix {
+  position: relative;
+  top: -0.5em;
+  font-size: 3vh;
 }
 
 #gap {

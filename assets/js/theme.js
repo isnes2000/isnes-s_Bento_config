@@ -3,7 +3,7 @@
 //  ┴ ┴ ┴└─┘┴ ┴└─┘
 
 // Store the theme
-let darkTheme = localStorage.getItem('darkTheme');
+let darkTheme = localStorage.getItem('darkTheme') || 'enabled';
 const themeToggle = document.querySelector('#themeButton');
 const bodyBackground = document.getElementById('#body');
 

@@ -13,7 +13,7 @@ const printCards = () => {
           target="${CONFIG.openInNewTab ? '_blank' : ''}"
           class="buttonLink__link card buttonLink__link-${card.id}"
         >
-          <i class="buttonLink__icon" data-feather="${card.icon}"></i>
+          <i class="buttonLink__icon la la-${card.icon} la-3x"></i>
         </a>
     `;
 

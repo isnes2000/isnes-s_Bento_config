@@ -167,6 +167,7 @@ body {
 
 #month,
 #day,
+#day-name,
 #suffix {
   font-size: var(--fsm);
   font-weight: bold;

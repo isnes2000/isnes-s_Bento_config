@@ -60,7 +60,7 @@ const CONFIG = {
       id: '4',
       name: 'GitLab',
       icon: 'gitlab',
-      link: 'https://gitlab.com/isnes2000',
+      link: 'https://courses.maine.edu',
     },
     {
       id: '5',

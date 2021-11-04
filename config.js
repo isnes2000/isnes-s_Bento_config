@@ -58,12 +58,12 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'GitLab',
-      icon: 'gitlab',
+      name: 'Brightspace',
+      icon: 'aperture',
       link: 'https://courses.maine.edu',
     },
     {
-      id: '5',
+      id: '5',aperture
       name: 'Reddit',
       icon: 'reddit',
       link: 'https://reddit.com',

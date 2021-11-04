@@ -63,7 +63,7 @@ const CONFIG = {
       link: 'https://courses.maine.edu',
     },
     {
-      id: '5',aperture
+      id: '5',
       name: 'Reddit',
       icon: 'reddit',
       link: 'https://reddit.com',

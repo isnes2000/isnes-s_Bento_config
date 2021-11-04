@@ -11,13 +11,13 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Alex',
+  name: 'Cole',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: true,
 
   // Greetings
-  greetingMorning: '☀️ G\'day,',
+  greetingMorning: '☀️ Hello,',
   greetingAfternoon: '🕒 Good afternoon,',
   greetingEvening: '🌙 Good evening,',
   greetingNight: '💤 Good Night,',
@@ -60,7 +60,7 @@ const CONFIG = {
       id: '4',
       name: 'GitLab',
       icon: 'gitlab',
-      link: 'https://gitlab.com/aw1cks',
+      link: 'https://gitlab.com/isnes2000',
     },
     {
       id: '5',

@@ -59,7 +59,7 @@ const CONFIG = {
     {
       id: '4',
       name: 'Brightspace',
-      icon: 'Aperture',
+      icon: 'aperture',
       link: 'https://courses.maine.edu',
     },
     {

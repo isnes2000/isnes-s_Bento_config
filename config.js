@@ -54,12 +54,12 @@ const CONFIG = {
       id: '3',
       name: 'GitHub',
       icon: 'github',
-      link: 'https://github.com/aw1cks',
+      link: 'https://github.com/isnes2000',
     },
     {
       id: '4',
       name: 'Brightspace',
-      icon: 'aperture',
+      icon: 'Aperture',
       link: 'https://courses.maine.edu',
     },
     {

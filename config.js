@@ -24,8 +24,8 @@ const CONFIG = {
 
   // Weather
   weatherKey: 'd086ffc6bf6c0917f8370af845d25523',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
+  weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
